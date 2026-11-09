@@ -23,43 +23,43 @@ description: Modern, guvenli ve tam ozellikli site ve apartman yonetim platformu
 ## Ekran Goruntuleri
 
 ### Ana Sayfa ve Giris Ekrani
-<img width="1600" height="1000" alt="Ana Sayfa ve Giris Ekrani" src="assets/ana-sayfa.jpg" />
+<img width="1600" height="1000" alt="Ana Sayfa ve Giris Ekrani" src="ana-sayfa.jpg" />
 
 
 ### Sakin Kontrol Paneli
-<img width="1600" height="1000" alt="Sakin Kontrol Paneli" src="assets/sakin-panel.jpg" />
+<img width="1600" height="1000" alt="Sakin Kontrol Paneli" src="sakin-panel.jpg" />
 
 
 ### Yonetim Sirketi Paneli
-<img width="1600" height="1000" alt="Yonetim Sirketi Paneli" src="assets/yonetim-sirketi.jpg" />
+<img width="1600" height="1000" alt="Yonetim Sirketi Paneli" src="yonetim-sirketi.jpg" />
 
 
 ### Yoneticiler ve Sakinler Listesi
-<img width="1600" height="1000" alt="Yoneticiler ve Sakinler Listesi" src="assets/yoneticiler-sakinler.jpg" />
+<img width="1600" height="1000" alt="Yoneticiler ve Sakinler Listesi" src="yoneticiler-sakinler.jpg" />
 
 
 ### Daire Yerlesim ve Tesis Rezervasyon
-<img width="1600" height="1000" alt="Daire Yerlesim ve Tesis Rezervasyon" src="assets/daire-rezervasyon.jpg" />
+<img width="1600" height="1000" alt="Daire Yerlesim ve Tesis Rezervasyon" src="daire-rezervasyon.jpg" />
 
 
 ### Aidat ve Finans Yonetimi
-<img width="1600" height="1000" alt="Aidat ve Finans Yonetimi" src="assets/aidat-finans.jpg" />
+<img width="1600" height="1000" alt="Aidat ve Finans Yonetimi" src="aidat-finans.jpg" />
 
 
 ### Guvenlik, Arac ve Kapi Giris Yonetimi
-<img width="1600" height="1000" alt="Guvenlik, Arac ve Kapi Giris Yonetimi" src="assets/guvenlik-arac-kapi.jpg" />
+<img width="1600" height="1000" alt="Guvenlik, Arac ve Kapi Giris Yonetimi" src="guvenlik-arac-kapi.jpg" />
 
 
 ### Duyuru Paneli ve Site Anketleri
-<img width="1600" height="1000" alt="Duyuru Paneli ve Site Anketleri" src="assets/duyuru-anket.jpg" />
+<img width="1600" height="1000" alt="Duyuru Paneli ve Site Anketleri" src="duyuru-anket.jpg" />
 
 
 ### Talep/Sikayet ve Toplanti Notlari
-<img width="1600" height="1000" alt="Talep/Sikayet ve Toplanti Notlari" src="assets/talep-toplanti.jpg" />
+<img width="1600" height="1000" alt="Talep/Sikayet ve Toplanti Notlari" src="talep-toplanti.jpg" />
 
 
 ### Guvenlik Paneli
-<img width="1600" height="1000" alt="Guvenlik Paneli" src="assets/guvenlik-panel.jpg" />
+<img width="1600" height="1000" alt="Guvenlik Paneli" src="guvenlik-panel.jpg" />
 
 
 ---
